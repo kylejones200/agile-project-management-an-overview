@@ -1,332 +1,47 @@
-# Agile Project Management: An Overview Agile Project Management is a flexible and iterative approach to
-managing projects that emphasizes collaboration, continuous
-improvement...
+---
+Author: Kyle Jones Publication_date: March 23, 2023 Canonical_link: "https://medium.com/@kyle-t-jones/agile-project-management-an-overview-76de90e82f89" Export_from_medium_date: November 10, 2025
+---
+# Agile Project Management: An Overview
 
-### Agile Project Management: An Overview
-#### Agile Project Management is a flexible and iterative approach to managing projects that emphasizes collaboration, continuous improvement, and rapid delivery of high-quality results.
+Agile Project Management is a flexible and iterative approach to managing projects that emphasizes collaboration, continuous improvement...
+### Agile Project Management: An Overview ####
+
+Agile Project Management is a flexible and iterative approach to managing projects that emphasizes collaboration, continuous improvement, and rapid delivery of high-quality results.
 ### What is Agile Project Management?
 
+In the Agile methodology, teams work in short, iterative cycles known as sprints, where they plan, execute, and review work in collaboration with stakeholders.
 
-<figcaption>Photo by Jason Goodman on Unsplash</figcaption>
+The Agile approach prioritizes customer satisfaction, responding to change, and working software over extensive documentation and rigid plans. It is based on the Agile Manifesto, which consists of 12 principles that prioritize individuals and interactions, working software, customer collaboration, and responding to change.
 
+Agile methodologies, such as Scrum, Kanban, and Lean, provide frameworks for implementing the Agile approach. These methodologies define specific roles and responsibilities, such as the Product Owner, Scrum Master, and Development Team, and outline processes for Agile planning, execution, and review.
 
-In the Agile methodology, teams work in short, iterative cycles known as
-sprints, where they plan, execute, and review work in collaboration with
-stakeholders.
+The Agile planning process involves creating and prioritizing a backlog of user stories, which are brief descriptions of features or functionality from the perspective of the end user. The team then selects a subset of these user stories for the upcoming sprint and breaks them down into smaller tasks.\ During the sprint, the team meets daily for a short stand-up meeting to review progress, discuss any roadblocks, and plan for the day ahead. At the end of the sprint, the team reviews and demonstrates the completed work to stakeholders and holds a retrospective to identify areas for improvement in the next sprint.
 
-The Agile approach prioritizes customer satisfaction, responding to
-change, and working software over extensive documentation and rigid
-plans. It is based on the Agile Manifesto, which consists of 12
-principles that prioritize individuals and interactions, working
-software, customer collaboration, and responding to change.
+Agile Project Management differs from traditional project management approaches, such as Waterfall, which prioritize extensive planning and documentation, with little room for change once the project is underway. In contrast, Agile embraces change and encourages collaboration throughout the project lifecycle.
 
-Agile methodologies, such as Scrum, Kanban, and Lean, provide frameworks
-for implementing the Agile approach. These methodologies define specific
-roles and responsibilities, such as the Product Owner, Scrum Master, and
-Development Team, and outline processes for Agile planning, execution,
-and review.
+To implement Agile Project Management successfully, organizations must prioritize training and support for their teams, establish clear roles and responsibilities, and provide the necessary tools and resources for Agile planning and execution. By doing so, organizations can reap the benefits of Agile Project Management, including faster time to market, increased customer satisfaction, and greater team engagement and collaboration.
 
-The Agile planning process involves creating and prioritizing a backlog
-of user stories, which are brief descriptions of features or
-functionality from the perspective of the end user. The team then
-selects a subset of these user stories for the upcoming sprint and
-breaks them down into smaller tasks.\
-During the sprint, the team meets daily for a short stand-up meeting to
-review progress, discuss any roadblocks, and plan for the day ahead. At
-the end of the sprint, the team reviews and demonstrates the completed
-work to stakeholders and holds a retrospective to identify areas for
-improvement in the next sprint.
+### The history and evolution of Agile Project Management Agile project management is a methodology
 
-Agile Project Management differs from traditional project management
-approaches, such as Waterfall, which prioritize extensive planning and
-documentation, with little room for change once the project is underway.
-In contrast, Agile embraces change and encourages collaboration
-throughout the project lifecycle.
+that emphasizes flexibility, collaboration, and iterative development. It has its roots in software development, but has since been adopted by a wide range of industries. In this article, we'll explore the history and evolution of agile project management. #### The Origins of Agile Project Management Agile project management originated in the early 2000s as a response to the perceived limitations of traditional project management methodologies, such as Waterfall. The Agile Manifesto, a set of guiding principles for agile development, was created in 2001 by a group of software developers who sought a more flexible and collaborative approach to software development. #### The Evolution of Agile Project Management Since its inception, agile project management has evolved significantly. One of the most significant developments has been the creation of frameworks that provide more structure and guidance than the Agile Manifesto alone. These frameworks include Scrum, Kanban, and Lean, among others. Scrum is perhaps the most widely adopted agile framework. It emphasizes iterative development, collaboration, and continuous improvement. Kanban, on the other hand, is focused on visualizing the flow of work and limiting work in progress. Lean, which originated in manufacturing, has been adapted for software development and emphasizes eliminating waste and maximizing customer value.
+### The Benefits of Agile Project Management Agile project management offers numerous benefits, including increased flexibility, faster time to market, improved collaboration, and increased customer satisfaction. By focusing on delivering value in small increments, agile teams can respond quickly to changing requirements and feedback, reducing
 
-To implement Agile Project Management successfully, organizations must
-prioritize training and support for their teams, establish clear roles
-and responsibilities, and provide the necessary tools and resources for
-Agile planning and execution. By doing so, organizations can reap the
-benefits of Agile Project Management, including faster time to market,
-increased customer satisfaction, and greater team engagement and
-collaboration.
+the risk of delivering a product that doesn't meet the customer's needs. #### The Agile principles The Agile Manifesto is a set of guiding values and principles that inform the Agile Project Management approach. The manifesto was created by a group of software developers who recognized the limitations of traditional project management methodologies and sought to create a more flexible and collaborative approach to software development. The Agile Manifesto consists of four values and twelve principles. The four values are: - Individuals and interactions over processes and tools - Working software over comprehensive documentation - Customer collaboration over contract negotiation - Responding to change over following a plan The twelve principles of the Agile Manifesto build upon these values and include: - Delivering working software frequently, with a preference for shorter timescales - Embracing change, even late in the development process - Working collaboratively with customers and stakeholders throughout the development process - Building projects around motivated individuals, and giving them the support and resources they need to succeed - Prioritizing face-to-face communication over written documentation - Measuring progress through working software rather than comprehensive documentation - Promoting sustainable development by maintaining a steady pace and balancing workloads - Encouraging technical excellence and good design - Keeping things simple and minimizing unnecessary work - Empowering teams to make decisions and self-organize - Reflecting regularly on the team's progress and making adjustments as needed - Emphasizing the importance of continuous improvement and adaptability. These values and principles underpin the Agile Project Management approach, and inform the way that Agile teams plan, execute, and review work. By prioritizing collaboration, flexibility, and continuous improvement, Agile Project Management can help organizations to deliver high-quality results more efficiently and effectively.
+### Common Agile frameworks and methodologies (e.g. Scrum, Kanban, Lean) Agile project management is a flexible and collaborative approach to software development
 
-### The history and evolution of Agile Project Management
-Agile project management is a methodology that emphasizes flexibility,
-collaboration, and iterative development. It has its roots in software
-development, but has since been adopted by a wide range of industries.
-In this article, we'll explore the history and evolution of agile
-project management.
-
-#### The Origins of Agile Project Management
-Agile project management originated in the early 2000s as a response to
-the perceived limitations of traditional project management
-methodologies, such as Waterfall. The Agile Manifesto, a set of guiding
-principles for agile development, was created in 2001 by a group of
-software developers who sought a more flexible and collaborative
-approach to software development.
-
-#### The Evolution of Agile Project Management
-Since its inception, agile project management has evolved significantly.
-One of the most significant developments has been the creation of
-frameworks that provide more structure and guidance than the Agile
-Manifesto alone. These frameworks include Scrum, Kanban, and Lean, among
-others.
-
-Scrum is perhaps the most widely adopted agile framework. It emphasizes
-iterative development, collaboration, and continuous improvement.
-Kanban, on the other hand, is focused on visualizing the flow of work
-and limiting work in progress. Lean, which originated in manufacturing,
-has been adapted for software development and emphasizes eliminating
-waste and maximizing customer value.
-
-### The Benefits of Agile Project Management
-Agile project management offers numerous benefits, including increased
-flexibility, faster time to market, improved collaboration, and
-increased customer satisfaction. By focusing on delivering value in
-small increments, agile teams can respond quickly to changing
-requirements and feedback, reducing the risk of delivering a product
-that doesn't meet the customer's needs.
-
-#### The Agile principles
-The Agile Manifesto is a set of guiding values and principles that
-inform the Agile Project Management approach. The manifesto was created
-by a group of software developers who recognized the limitations of
-traditional project management methodologies and sought to create a more
-flexible and collaborative approach to software development.
-
-The Agile Manifesto consists of four values and twelve principles. The
-four values are:
-
-- Individuals and interactions over processes and tools
-- Working software over comprehensive documentation
-- Customer collaboration over contract negotiation
-- Responding to change over following a plan
-
-The twelve principles of the Agile Manifesto build upon these values and
-include:
-
-- Delivering working software frequently, with a preference for shorter
-  timescales
-- Embracing change, even late in the development process
-- Working collaboratively with customers and stakeholders throughout
-  the development process
-- Building projects around motivated individuals, and giving them the
-  support and resources they need to succeed
-- Prioritizing face-to-face communication over written
-  documentation
-- Measuring progress through working software rather than comprehensive
-  documentation
-- Promoting sustainable development by maintaining a steady pace and
-  balancing workloads
-- Encouraging technical excellence and good design
-- Keeping things simple and minimizing unnecessary work
-- Empowering teams to make decisions and self-organize
-- Reflecting regularly on the team's progress and making adjustments as
-  needed
-- Emphasizing the importance of continuous improvement and
-  adaptability.
-
-These values and principles underpin the Agile Project Management
-approach, and inform the way that Agile teams plan, execute, and review
-work. By prioritizing collaboration, flexibility, and continuous
-improvement, Agile Project Management can help organizations to deliver
-high-quality results more efficiently and effectively.
-
-### Common Agile frameworks and methodologies (e.g. Scrum, Kanban, Lean)
-Agile project management is a flexible and collaborative approach to
-software development that has gained popularity in recent years. There
-are several frameworks and methodologies that fall under the umbrella of
-agile project management, each with their own unique approach and set of
-principles. In this article, we\'ll explore some of the most common
-agile frameworks and methodologies.
-
-#### Scrum
-Scrum is perhaps the most widely adopted agile framework. It is based on
-the principles of transparency, inspection, and adaptation, and
-emphasizes iterative development, collaboration, and continuous
-improvement. Scrum is organized around the roles of Product Owner, Scrum
-Master, and Development Team, and includes a set of meetings, artifacts,
-and rules that guide the development process.
-
-#### Kanban
-Kanban is a visual framework that focuses on visualizing the flow of
-work and limiting work in progress. It emphasizes the importance of
-transparency, collaboration, and continuous improvement. Kanban boards
-are used to visualize the workflow, and work items are moved across the
-board as they progress through the development process.
-
-#### Lean
-Lean is a methodology that originated in manufacturing and has been
-adapted for software development. It emphasizes eliminating waste and
-maximizing customer value. Lean principles include continuous
-improvement, respect for people, and the pursuit of perfection. Lean
-teams focus on delivering value to the customer in small increments, and
-use feedback to continuously improve their processes.
-
-#### Extreme Programming (XP)
-Extreme Programming is an agile methodology that emphasizes the
-importance of teamwork, communication, and feedback. It includes
-practices such as pair programming, test-driven development, and
-continuous integration, and is designed to help teams deliver
-high-quality software quickly and efficiently.
-
+that has gained popularity in recent years. There are several frameworks and methodologies that fall under the umbrella of agile project management, each with their own unique approach and set of principles. In this article, we\'ll explore some of the most common agile frameworks and methodologies. #### Scrum Scrum is perhaps the most widely adopted agile framework. It is based on the principles of transparency, inspection, and adaptation, and emphasizes iterative development, collaboration, and continuous improvement. Scrum is organized around the roles of Product Owner, Scrum Master, and Development Team, and includes a set of meetings, artifacts, and rules that guide the development process. #### Kanban Kanban is a visual framework that focuses on visualizing the flow of work and limiting work in progress. It emphasizes the importance of transparency, collaboration, and continuous improvement. Kanban boards are used to visualize the workflow, and work items are moved across the board as they progress through the development process. #### Lean Lean is a methodology that originated in manufacturing and has been adapted for software development. It emphasizes eliminating waste and maximizing customer value. Lean principles include continuous improvement, respect for people, and the pursuit of perfection. Lean teams focus on delivering value to the customer in small increments, and use feedback to continuously improve their processes. #### Extreme Programming (XP) Extreme Programming is an agile methodology that emphasizes the importance of teamwork, communication, and feedback. It includes practices such as pair programming, test-driven development, and continuous integration, and is designed to help teams deliver high-quality software quickly and efficiently.
 ### Agile roles and responsibilities (e.g. Product Owner, Scrum Master, Development Team)
-Agile project management emphasizes teamwork, collaboration, and
-communication. It relies on a set of roles and responsibilities that are
-designed to facilitate the development process and ensure that everyone
-is working towards the same goals. In this article, we\'ll explore some
-of the most common agile roles and their responsibilities.
 
-#### Product Owner
-The Product Owner is responsible for ensuring that the development team
-is working on the right things. They are the primary stakeholder and are
-responsible for defining and prioritizing the product backlog. The
-Product Owner works closely with the development team to ensure that
-they have a clear understanding of the product vision and the
-customer\'s needs.
-
-#### Scrum Master
-The Scrum Master is responsible for ensuring that the Scrum framework is
-being followed. They facilitate the Scrum events and ensure that the
-team is adhering to the Scrum principles. The Scrum Master is also
-responsible for removing any obstacles that are preventing the team from
-achieving their goals. They work closely with the Product Owner to
-ensure that the product backlog is refined and prioritized.
-
-#### Development Team
-The Development Team is responsible for building the product. They are a
-self-organizing, cross-functional team that is responsible for
-delivering a potentially shippable increment of the product at the end
-of each sprint. The Development Team works closely with the Product
-Owner to ensure that they have a clear understanding of the product
-backlog and with the Scrum Master to ensure that they are adhering to
-the Scrum principles.
-
-#### Other Roles
-In addition to the core roles of Product Owner, Scrum Master, and
-Development Team, there are several other roles that are sometimes used
-in agile project management. These roles may include stakeholders,
-subject matter experts, and technical leads. The exact roles and
-responsibilities will vary depending on the specific needs of the
-project and the organization.
-
+Agile project management emphasizes teamwork, collaboration, and communication. It relies on a set of roles and responsibilities that are designed to facilitate the development process and ensure that everyone is working towards the same goals. In this article, we\'ll explore some of the most common agile roles and their responsibilities. #### Product Owner The Product Owner is responsible for ensuring that the development team is working on the right things. They are the primary stakeholder and are responsible for defining and prioritizing the product backlog. The Product Owner works closely with the development team to ensure that they have a clear understanding of the product vision and the customer\'s needs. #### Scrum Master The Scrum Master is responsible for ensuring that the Scrum framework is being followed. They facilitate the Scrum events and ensure that the team is adhering to the Scrum principles. The Scrum Master is also responsible for removing any obstacles that are preventing the team from achieving their goals. They work closely with the Product Owner to ensure that the product backlog is refined and prioritized. #### Development Team The Development Team is responsible for building the product. They are a self-organizing, cross-functional team that is responsible for delivering a potentially shippable increment of the product at the end of each sprint. The Development Team works closely with the Product Owner to ensure that they have a clear understanding of the product backlog and with the Scrum Master to ensure that they are adhering to the Scrum principles. #### Other Roles In addition to the core roles of Product Owner, Scrum Master, and Development Team, there are several other roles that are sometimes used in agile project management. These roles may include stakeholders, subject matter experts, and technical leads. The exact roles and responsibilities will vary depending on the specific needs of the project and the organization.
 ### The Agile planning process (e.g. user stories, backlog grooming, sprint planning)
-The planning process in Agile involves several key steps, including user
-stories, backlog grooming, and sprint planning. In this article, we\'ll
-explore each of these steps in more detail.
 
-#### User Stories
-User stories are short, simple descriptions of a feature or requirement
-from the perspective of the end-user. They are used to capture the
-customer\'s needs and expectations and serve as a starting point for the
-development process. User stories typically follow a specific format,
-such as \"As a \[type of user\], I want \[some goal or objective\] so
-that \[some reason or benefit\].\"
+The planning process in Agile involves several key steps, including user stories, backlog grooming, and sprint planning. In this article, we\'ll explore each of these steps in more detail. #### User Stories User stories are short, simple descriptions of a feature or requirement from the perspective of the end-user. They are used to capture the customer\'s needs and expectations and serve as a starting point for the development process. User stories typically follow a specific format, such as \"As a \[type of user\], I want \[some goal or objective\] so that \[some reason or benefit\].\" #### Backlog Grooming Backlog grooming is the process of reviewing and refining the product backlog. This involves adding new user stories, removing outdated ones, and updating existing ones as needed. Backlog grooming is typically done on a regular basis to ensure that the product backlog is up-to-date and reflects the team\'s current priorities and understanding of the customer\'s needs. #### Sprint Planning Sprint planning is the process of determining which user stories will be worked on in the upcoming sprint. It involves breaking down the user stories into smaller tasks and estimating the amount of time each task will take. The Development Team and Product Owner work together to determine which user stories will be included in the sprint and to create a plan for completing them.
+### Agile project execution (e.g. daily stand-up meetings, sprint reviews and retrospectives) Agile project management is an iterative and collaborative approach to software development that emphasizes flexibility, adaptability, and teamwork. One of the key components of Agile project execution is a set of ceremonies that help the team stay aligned and focused on their goals. In this article, we\'ll explore some of the most common Agile ceremonies, including daily stand-up meetings, sprint reviews, and retrospectives. #### Daily Stand-up Meetings Daily stand-up meetings, also known as \"daily scrums,\" are short, daily meetings where the team comes together to discuss their progress and plans for the day. These meetings are typically held in the morning and are designed to be brief and focused. Each team member shares what they worked on the previous day, what they plan to work on today, and any obstacles or challenges they are facing. The goal of the daily stand-up is to keep the team aligned and to identify any issues that need to be addressed. #### Sprint Reviews Sprint reviews are meetings held at the end of each sprint to demonstrate the work that was completed during that sprint. The Development Team presents their work to the Product Owner and other stakeholders, and everyone has the opportunity to ask questions and provide feedback. The goal of the sprint review is to ensure that the work meets the customer\'s needs and expectations, and to identify any areas for improvement. ####
 
-#### Backlog Grooming
-Backlog grooming is the process of reviewing and refining the product
-backlog. This involves adding new user stories, removing outdated ones,
-and updating existing ones as needed. Backlog grooming is typically done
-on a regular basis to ensure that the product backlog is up-to-date and
-reflects the team\'s current priorities and understanding of the
-customer\'s needs.
+Retrospectives Retrospectives are meetings held at the end of each sprint to reflect on the previous sprint and identify areas for improvement. The team comes together to discuss what went well, what didn\'t go well, and what they can do to improve their processes and practices. The goal of the retrospective is to identify ways to continuously improve the team\'s performance and to make adjustments to their processes and practices as needed.
+### Tips for implementing Agile Project Management in your organization Implementing Agile Project Management in an organization can be a challenging process. It requires a shift in mindset, a willingness to embrace change, and a commitment to continuous improvement. In
 
-#### Sprint Planning
-Sprint planning is the process of determining which user stories will be
-worked on in the upcoming sprint. It involves breaking down the user
-stories into smaller tasks and estimating the amount of time each task
-will take. The Development Team and Product Owner work together to
-determine which user stories will be included in the sprint and to
-create a plan for completing them.
+this article, we\'ll provide some tips for implementing Agile Project Management in your organization. - Start with a pilot project: Agile Project Management can be implemented gradually, starting with a pilot project. This allows the team to experiment with Agile practices and get a feel for how they work in practice. Starting with a small project also allows for more focused attention and easier course-correction if things go awry. - Train the team: Agile Project Management requires a different set of skills and knowledge than traditional project management. It\'s important to invest in training for the team members to ensure they understand the Agile principles, frameworks, and practices. This will help them be more effective and productive as they transition to Agile.\ Set clear goals and expectations: It\'s important to have clear goals and expectations for the Agile project. This includes defining the scope of the project, the desired outcomes, and the metrics for success. This will help the team stay focused and aligned with the organization\'s overall objectives. - Create a collaborative environment: Agile Project Management is based on collaboration and teamwork. It\'s important to create a culture that supports open communication, feedback, and continuous improvement. This includes encouraging team members to share their ideas, asking for feedback, and fostering a sense of trust and respect. - Use Agile tools and software: There are many tools and software available to support Agile Project Management, including project management software, collaboration tools, and Agile-specific software. These tools can help the team stay organized, communicate effectively, and track progress. - Continuously improve: Agile Project Management is based on the principle of continuous improvement. It\'s important to regularly reflect on the team\'s performance, identify areas for improvement, and make adjustments as needed. This helps the team stay adaptive and responsive to changing circumstances.
+### Related Stories - [[Project Management Best Practices for Remote Teams for New Project Managers](https://medium.com/@kylejones_47003/project-management-best-practices-for-remote-teams-for-new-project-managers-1abb9009fde0)] - [[Project Management Tips
 
-### Agile project execution (e.g. daily stand-up meetings, sprint reviews and retrospectives)
-Agile project management is an iterative and collaborative approach to
-software development that emphasizes flexibility, adaptability, and
-teamwork. One of the key components of Agile project execution is a set
-of ceremonies that help the team stay aligned and focused on their
-goals. In this article, we\'ll explore some of the most common Agile
-ceremonies, including daily stand-up meetings, sprint reviews, and
-retrospectives.
-
-#### Daily Stand-up Meetings
-Daily stand-up meetings, also known as \"daily scrums,\" are short,
-daily meetings where the team comes together to discuss their progress
-and plans for the day. These meetings are typically held in the morning
-and are designed to be brief and focused. Each team member shares what
-they worked on the previous day, what they plan to work on today, and
-any obstacles or challenges they are facing. The goal of the daily
-stand-up is to keep the team aligned and to identify any issues that
-need to be addressed.
-
-#### Sprint Reviews
-Sprint reviews are meetings held at the end of each sprint to
-demonstrate the work that was completed during that sprint. The
-Development Team presents their work to the Product Owner and other
-stakeholders, and everyone has the opportunity to ask questions and
-provide feedback. The goal of the sprint review is to ensure that the
-work meets the customer\'s needs and expectations, and to identify any
-areas for improvement.
-
-#### Retrospectives
-Retrospectives are meetings held at the end of each sprint to reflect on
-the previous sprint and identify areas for improvement. The team comes
-together to discuss what went well, what didn\'t go well, and what they
-can do to improve their processes and practices. The goal of the
-retrospective is to identify ways to continuously improve the team\'s
-performance and to make adjustments to their processes and practices as
-needed.
-
-### Tips for implementing Agile Project Management in your organization
-Implementing Agile Project Management in an organization can be a
-challenging process. It requires a shift in mindset, a willingness to
-embrace change, and a commitment to continuous improvement. In this
-article, we\'ll provide some tips for implementing Agile Project
-Management in your organization.
-
-- Start with a pilot project: Agile Project Management can be
-  implemented gradually, starting with a pilot project. This allows the
-  team to experiment with Agile practices and get a feel for how they
-  work in practice. Starting with a small project also allows for more
-  focused attention and easier course-correction if things go
-  awry.
-- Train the team: Agile Project Management requires a different set of
-  skills and knowledge than traditional project management. It\'s
-  important to invest in training for the team members to ensure they
-  understand the Agile principles, frameworks, and practices. This will
-  help them be more effective and productive as they transition to
-  Agile.\
-  Set clear goals and expectations: It\'s important to have clear goals
-  and expectations for the Agile project. This includes defining the
-  scope of the project, the desired outcomes, and the metrics for
-  success. This will help the team stay focused and aligned with the
-  organization\'s overall objectives.
-- Create a collaborative environment: Agile Project Management is based
-  on collaboration and teamwork. It\'s important to create a culture
-  that supports open communication, feedback, and continuous
-  improvement. This includes encouraging team members to share their
-  ideas, asking for feedback, and fostering a sense of trust and
-  respect.
-- Use Agile tools and software: There are many tools and software
-  available to support Agile Project Management, including project
-  management software, collaboration tools, and Agile-specific software.
-  These tools can help the team stay organized, communicate effectively,
-  and track progress.
-- Continuously improve: Agile Project Management is based on the
-  principle of continuous improvement. It\'s important to regularly
-  reflect on the team\'s performance, identify areas for improvement,
-  and make adjustments as needed. This helps the team stay adaptive and
-  responsive to changing circumstances.
-
-### Related Stories
-- [[Project Management Best Practices for Remote Teams for New Project
-  Managers](https://medium.com/@kylejones_47003/project-management-best-practices-for-remote-teams-for-new-project-managers-1abb9009fde0)]
-- [[Project Management Tips from the the
-  PMBOK](https://medium.com/@kylejones_47003/project-management-tips-from-the-the-pmbok-498434941051)]
-::::::::By [Kyle Jones](https://medium.com/@kyle-t-jones) on
-[March 23, 2023](https://medium.com/p/76de90e82f89).
-
-[Canonical
-link](https://medium.com/@kyle-t-jones/agile-project-management-an-overview-76de90e82f89)
-
-Exported from [Medium](https://medium.com) on November 10, 2025.
+from the the PMBOK](https://medium.com/@kylejones_47003/project-management-tips-from-the-the-pmbok-498434941051)]
